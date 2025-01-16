@@ -8,9 +8,7 @@ This repository contains a machine translation model built from scratch, inspire
 
 The dataset used for training is sourced from [this Kaggle repository](https://www.kaggle.com/datasets/hemanthkumar21/englist-tamil-parallel-sent). It consists of English sentences paired with their Tamil translations, ideal for sequence-to-sequence modeling.
 
-Key statistics of the dataset:
-- Number of sentence pairs: Approximately 100,000
-- Average sentence length: ~10 words
+- Number of sentence pairs: Approximately 200,000
 - Languages: English (source) and Tamil (target)
 
 ---
